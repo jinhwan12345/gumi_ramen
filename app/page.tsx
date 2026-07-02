@@ -19,8 +19,6 @@ export default function MaintenancePage() {
                 {/* '2025 구미라면축제 돌아보기' 버튼 영역 투명 링크 */}
                 <Link
                     href="https://www.gumiramyun.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className="absolute left-[37%] right-[37%] bottom-[22%] top-[60%] rounded-full cursor-pointer transition-all duration-200 hover:bg-black/5"
                     title="2025 구미라면축제 돌아보기 이동"
                 />
